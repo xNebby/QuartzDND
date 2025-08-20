@@ -1,7 +1,11 @@
 ---
 title: Alg Deer
 Class: Barbarian
-tags: 
+Species: Goliath
+Pronouns: He/Him / It/Its
+tags:
+  - NPCs
+  - Aeternus
 share: true
 ---
 ### Ranks and Titles
