@@ -1,7 +1,11 @@
 ---
 title: Ralrun Gilhan
 Class: Cleric
-tags: 
+Pronouns: He/Him / She/Her
+Species: Elf
+tags:
+  - NPCs
+  - Aeternus
 share: true
 ---
 ### Ranks and Titles
