@@ -1,7 +1,11 @@
 ---
 title: Tessa Torvik
 Class: Sorcerer
-tags: 
+Pronouns: She/Her
+Species: ??? - Appears human
+tags:
+  - NPCs
+  - Aeternus
 share: true
 ---
 ### Ranks and Titles
