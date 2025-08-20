@@ -5,7 +5,7 @@ Pronouns: She/Her
 Class: Fighter
 Subclass: Echo knight
 Species: Goblin
-Subspecies: 
+Subspecies:
 tags:
   - Player
 share: true
@@ -22,7 +22,7 @@ share: true
  - [Bronze Adventurer](../../%F0%9F%8C%8F%EF%B8%8E%20Setting/Guilds%20&%20Groups/Adventurers%20Guild/Adventurers.md#Tiers)
 
 ### Description:
-![Snoozie.png](./Snoozie.png)
+![500](./Snoozie.png)
 A - Goblin.
 
 ### History: 
