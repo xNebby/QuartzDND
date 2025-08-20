@@ -19,13 +19,16 @@ share: true
 ---
 ### Current Quest Threads:
 
-- ### Setup
-	## [Session 0](Session%200.md)
----
+#### Setup
+## [Session 0](Session%200.md)
 <span><span><h3 data-heading="Introduction - Saturday, June 21, 2025" dir="auto">Introduction - Saturday, June 21, 2025</h3></span></span>
 - Make sure character sheets are all set up - **[Done!]**
 - Practice combat to make sure everyone understands their sheets - **[Done!]**
+
 ---
-### Summary:
+
+
+---
+### Session 0 Summary:
 
 Made sure everyone was able to connect to the foundry server via zerotier, sorted out any last minute needs for the character sheets and then had a small combat encounter to make sure people could use their sheets properly. 
