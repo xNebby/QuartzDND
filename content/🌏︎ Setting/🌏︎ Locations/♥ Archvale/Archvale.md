@@ -1,6 +1,6 @@
 ---
 title: Archvale Overview
-tags: 
+tags:
 share: true
 ---
 ### About
@@ -30,9 +30,9 @@ Spell scrolls are extremely valuable too, as many wizards and mages sell them in
 
 ---
 ### POIs
-[Aurelia University](../../../../Aurelia%20University.md)
+[Aurelia University](./POIs/Aurelia%20University.md)
 [Krylian University](../../../../Krylian%20University.md)
-[Drakkin University](../../../../Drakkin%20University.md)
+[Drakkin University](./POIs/Drakkin%20University.md)
 
 ---
 ### Shops
