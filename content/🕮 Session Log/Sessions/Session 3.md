@@ -32,7 +32,7 @@ share: true
 
 
 ---
-### Summary:
+### Session 3 Summary:
 
 
 ---
