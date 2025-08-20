@@ -1,7 +1,11 @@
 ---
 title: Lorreta Silvun
 Class: Rogue-Bard
-tags: 
+Pronouns: She/Her / They/Them
+Species: Tiefling
+tags:
+  - NPCs
+  - Aeternus
 share: true
 ---
 ### Ranks and Titles
