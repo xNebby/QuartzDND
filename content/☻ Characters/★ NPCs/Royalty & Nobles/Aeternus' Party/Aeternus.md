@@ -1,7 +1,11 @@
 ---
 title: Aeternus
 Class: Paladin
-tags: 
+Species: Human
+Pronouns: He/Him
+tags:
+  - NPCs
+  - Aeternus
 share: true
 ---
 ### Ranks and Titles
@@ -13,7 +17,7 @@ share: true
 
 ---
 ### About
-The new King of Auraxia. He is known for being a benevolent yet strong ruler, who 
+The new King of Auraxia. He is known for being a benevolent yet strong ruler, who bends a knee to no man. He slew the previous king of [Auraxia](../../../../%F0%9F%8C%8F%EF%B8%8E%20Setting/Overview/Auraxia.md)
 
 ---
 ### Affiliations
