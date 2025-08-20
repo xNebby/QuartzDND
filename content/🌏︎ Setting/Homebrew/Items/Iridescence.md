@@ -1,8 +1,8 @@
 ---
 title: Iridescence
-Weight: 
-Cost: 
-Rarity: 
+Weight:
+Cost:
+Rarity:
 tags:
   - Magic
   - Resource

@@ -1,6 +1,6 @@
 ---
 title: Central (Verdansgate) Overview
-tags: 
+tags:
 share: true
 ---
 ### About
