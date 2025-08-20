@@ -31,19 +31,14 @@ share: true
 
 
 ---
-### Levelled up?
-
-true
-
----
 ### Summary:
 
 
 ---
 ### NPCs that might show up again:
 
----
-### Important rules:
-
 
 ---
+### Levelled up?
+
+true

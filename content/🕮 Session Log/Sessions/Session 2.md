@@ -23,7 +23,7 @@ share: true
 ### Recap:
 ### Summary:
 - The party met up at The [Mythmaker Tavern](Mythmaker%20Tavern.md), owned by [Gaius Crowsby](Gaius%20Crowsby.md)- A reputable retired adventurer who acts as a quest handler for new and upcoming adventurers. He puts together groups of people whose abilities may mesh well, and sends them out on beginner adventures. His tavern acts as a subsidiary of the [Adventurers guild](Adventurers.md). 
-- Th## [Session 1](Session%201.md)
+- The party set off on their first ## [Session 1](Session%201.md)
 ---
 <span><span><h3 data-heading="The wastelands - Saturday, June 28, 2025" dir="auto">The wastelands - Saturday, June 28, 2025</h3></span></span>
  - Quest is officially issued by [Gaius Crowsby](Gaius%20Crowsby.md). - **[Done!]**
@@ -40,16 +40,16 @@ share: true
 	 - The party falls unconscious at their meal, seeing the woman they picked up laughing maniacally. 
 	 - The party wakes up in the middle of a cultist gathering.
 
-Continues as [Escape the blood-soaked cult](Escape%20the%20blood-soaked%20cult.md) headed to Scorga### Summary:
+Continues as [Escape the blood-soaked cult](Escape%20the%20blood-soaked%20cult.md)ey travelled by a ca### Summary:
+
 Made sure everyone was able to connect to the foundry server via zerotier, sorted out any last minute needs for the character sheets and then had a small combat encounter to make sure people could use their sheets properly. 
 ## [Session 0](Session%200.md)
 ---
 <span><span><h3 data-heading="Introduction - Saturday, June 21, 2025" dir="auto">Introduction - Saturday, June 21, 2025</h3></span></span>
 - Make sure character sheets are all set up - **[Done!]**
-- Practice combat to make sure everyone understands their sheets - **[Done!]**lled by a caravan with a group of others- narrowly avoiding an encounter with a pack of hungry dire wolves. 
+- Practice combat to make sure everyone understands their sheets - **[Done!]**others- narrowly avoiding an encounter with a pack of hungry dire wolves. 
 - When arriving in the marketplace area of Scorgate outpost, the party ran into a group of bandits punishing a man in a back alley. They killed one of the bandits, and the other fled. Guards ran up and told them to leave before the gang heard about this. One of the bandits had an insignia of a clenched bloodied hand. 
 - Party met up with the researchers they were to escort. Bought the camels and went to a tavern near the outskirts. Chatted with the researchers about what they were going to get up to, and where they had come from. 
-
 ---
 
 
@@ -62,19 +62,14 @@ Made sure everyone was able to connect to the foundry server via zerotier, sorte
 
 
 ---
-### Levelled up?
-
-true
-
----
 ### Summary:
 
 
 ---
 ### NPCs that might show up again:
 
----
-### Important rules:
-
 
 ---
+### Levelled up?
+
+true
