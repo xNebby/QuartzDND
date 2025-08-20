@@ -31,7 +31,7 @@ share: true
 
 
 ---
-### Summary:
+### Session 6 Summary:
 
 
 ---
