@@ -5,7 +5,7 @@ Pronouns: She/Her
 Class: Wizard
 Subclass: Shadow
 Species: Air Genasi
-Subspecies: 
+Subspecies:
 tags:
   - Player
 share: true
