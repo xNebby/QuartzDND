@@ -3,9 +3,9 @@ title: Chiffon
 PlayerName: Dora
 Pronouns: Pan/Pot
 Class: Barbarian
-Subclass: 
+Subclass:
 Species: Elf
-Subspecies: 
+Subspecies:
 tags:
   - Player
 share: true
@@ -23,6 +23,7 @@ share: true
  - Chef
 
 ### Description:
+![200](./chiffontokenpng.png)
 A short, slightly chubby Elf. She has a constant friendly smile on her face, and exudes an aura of kindness with her soft features and gentle stare. She has blonde hair often found in two messy buns, with kind, pink eyes that welcome all to her cart. 
 
 ### History: 
