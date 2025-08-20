@@ -1,7 +1,11 @@
 ---
 title: Gaius Crowsby
 Class: Barbarian-Monk
-tags: 
+Pronouns: He/Him
+Species: Human-Earth Genasi
+tags:
+  - NPCs
+  - Aeternus
 share: true
 ---
 ### Ranks and Titles
