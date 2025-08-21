@@ -5,7 +5,7 @@ tags:
 share: true
 ---
 ## [Session 1](../../Sessions/Session%201.md)
-<span><span><h3 data-heading="The wastelands - Saturday, June 28, 2025" dir="auto">The wastelands - Saturday, June 28, 2025</h3></span></span>
+<span><span><h4 data-heading="The wastelands - Saturday, June 28, 2025" dir="auto">The wastelands - Saturday, June 28, 2025</h4></span></span>
  - Quest is officially issued by [Gaius Crowsby](../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Royalty%20&%20Nobles/Aeternus'%20Party/Gaius%20Crowsby.md). - **[Done!]**
 	 - Reward is delivered upon completion of the quest (20 gold per person). 
  - Go to Scorgate outpost - **[Done!]**
@@ -21,5 +21,3 @@ share: true
 	 - The party wakes up in the middle of a cultist gathering.
 
 Continues as [Escape the blood-soaked cult](./Escape%20the%20blood-soaked%20cult.md)
-
----
