@@ -20,13 +20,7 @@ share: true
 ### Current Quest Threads:
 
 #### Setup
-## [Session 0](Session%200.md)
-<span><span><h3 data-heading="Introduction - Saturday, June 21, 2025" dir="auto">Introduction - Saturday, June 21, 2025</h3></span></span>
-- Make sure character sheets are all set up - **[Done!]**
-- Practice combat to make sure everyone understands their sheets - **[Done!]**
-
----
-
+![Setup](../%F0%9F%93%91%2520Quests/Scorgate/Setup.md##Session%25200)
 
 ---
 ### Session 0 Summary:
