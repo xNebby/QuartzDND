@@ -12,8 +12,8 @@ share: true
 ### The gods
 | Name                                                                     | Pronouns           | God Of                    |
 | ------------------------------------------------------------------------ | ------------------ | ------------------------- |
-| [Aurelious](./Current/Aurelious.md) | He/Him / They/Them | The Sun                   |
 | [Brixburn](./Current/Brixburn.md)   | He/Him             | Crafts, Tools and Dwarves |
+| [Aurelious](./Current/Aurelious.md) | He/Him / They/Them | The Sun                   |
 | [Nyx](./Current/Nyx.md)             | She/Her            | The Night                 |
 
 
