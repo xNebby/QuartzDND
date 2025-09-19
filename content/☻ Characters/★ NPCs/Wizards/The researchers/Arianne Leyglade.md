@@ -17,7 +17,7 @@ A gloomy yet talented student of [Aurelia University](../../../../%F0%9F%8C%8F%E
 
 Their department was shifted onto researching the worrying [Void-touched](../../../../%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/Creatures/Void-touched.md) disease.
 
-[Yvonne Astrea](../../Royalty%20&%20Nobles/Aeternus'%20Party/Yvonne%20Astrea.md) had an eye on this student, and allowed her to partake in a research expedition despite her young age. 
+[Yvonne Astrea](../../Adventurer%20Groups/Aeternus'%20Party/Yvonne%20Astrea.md) had an eye on this student, and allowed her to partake in a research expedition despite her young age. 
 
 ---
 ### Affiliations
