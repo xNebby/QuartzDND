@@ -5,6 +5,7 @@ Session: 6
 Date: 2025-08-08
 LevelUp: false
 tags:
+  - Session
 share: true
 ---
 # Hot springs and Hot tempers
@@ -19,10 +20,6 @@ share: true
 
 
 ---
-### Recap:
-
-
----
 ### Things the party should know:
 
 
@@ -32,10 +29,6 @@ share: true
 
 ---
 ### Session 6 Summary:
-
-
----
-### NPCs that might show up again:
 
 
 ---
