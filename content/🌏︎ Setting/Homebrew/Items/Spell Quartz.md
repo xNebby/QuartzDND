@@ -3,6 +3,7 @@ title: Spell Quartz
 tags:
   - Magic
   - Item
+  - Homebrew
 share: true
 ---
 ### What does the item look like?
