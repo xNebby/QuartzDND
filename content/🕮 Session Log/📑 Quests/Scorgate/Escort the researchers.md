@@ -6,7 +6,7 @@ share: true
 ---
 ## [Session 1](../../Sessions/Session%201.md)
 <span><span><h4 data-heading="The wastelands - Saturday, June 28, 2025" dir="auto">The wastelands - Saturday, June 28, 2025</h4></span></span>
- - Quest is officially issued by [Gaius Crowsby](../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Royalty%20&%20Nobles/Aeternus'%20Party/Gaius%20Crowsby.md). - **[Done!]**
+ - Quest is officially issued by [Gaius Crowsby](../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Adventurer%20Groups/Aeternus'%20Party/Gaius%20Crowsby.md). - **[Done!]**
 	 - Reward is delivered upon completion of the quest (20 gold per person). 
  - Go to Scorgate outpost - **[Done!]**
 	 - Get anything you need from shops for the trip (Water, shaded clothing, etc).
