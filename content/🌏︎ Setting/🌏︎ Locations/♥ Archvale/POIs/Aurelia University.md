@@ -6,7 +6,7 @@ share: true
 ### About
 This university of magic is funded primarily by the crown, and is attended by a wide range of students. 
 
-[Yvonne Astrea](../../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Royalty%20&%20Nobles/Aeternus'%20Party/Yvonne%20Astrea.md) is the acting headmistress of this university. Many nobles and wizards of high stature in the courts despise this fact, as she never received an official tutoring- Her methods of teaching are unconventional, but often enlightening for any who attends. She was appointed this position by King [Aeternus](../../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Royalty%20&%20Nobles/Aeternus'%20Party/Aeternus.md). 
+[Yvonne Astrea](../../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Adventurer%20Groups/Aeternus'%20Party/Yvonne%20Astrea.md) is the acting headmistress of this university. Many nobles and wizards of high stature in the courts despise this fact, as she never received an official tutoring- Her methods of teaching are unconventional, but often enlightening for any who attends. She was appointed this position by King [Aeternus](../../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Adventurer%20Groups/Aeternus'%20Party/Aeternus.md). 
 
 ---
 ### Known for

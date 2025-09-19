@@ -20,7 +20,9 @@ The campaign uses DND 5e with the 2024/25 ruleset, and allows most custom book c
 | [Exhausted Spellcasting](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Exhausted%20Spellcasting.md) |
 | [Final Stand](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Final%20Stand.md)                       |
 | [Flanking](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Flanking.md)                             |
+| [Lingering Injuries](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Lingering%20Injuries.md)         |
 | [Non-lethal Magic](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Non-lethal%20Magic.md)             |
+| [Opportunity Attacks](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Opportunity%20Attacks.md)       |
 | [Sleep](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Sleep.md)                                   |
 | [Swimming](./%F0%9F%8C%8F%EF%B8%8E%20Setting/Homebrew/House%20rules/Swimming.md)                             |
 
@@ -29,9 +31,9 @@ The campaign uses DND 5e with the 2024/25 ruleset, and allows most custom book c
 You can find information about Party members either below ([The party](./%E2%98%BB%20Characters/The%20party.md)) or under #Player.
 | Character                                                                | Player    | Pronouns           | Class     | Species    |
 | ------------------------------------------------------------------------ | --------- | ------------------ | --------- | ---------- |
-| [Celaine D'vain](./%E2%98%BB%20Characters/%E2%98%85%20Player%20Characters/Celaine%20D'vain.md)   | Amelia    | She/Her            | Wizard    | Air Genasi |
-| [Chiffon](./%E2%98%BB%20Characters/%E2%98%85%20Player%20Characters/Chiffon.md)                 | Dora      | Pan/Pot            | Barbarian | Elf        |
 | [Azool The Fifth](./%E2%98%BB%20Characters/%E2%98%85%20Player%20Characters/Azool%20The%20Fifth.md) | Patrick   | He/Him / They/Them | Cleric    | Tiefling   |
+| [Chiffon](./%E2%98%BB%20Characters/%E2%98%85%20Player%20Characters/Chiffon.md)                 | Dora      | Pan/Pot            | Barbarian | Elf        |
+| [Celaine D'vain](./%E2%98%BB%20Characters/%E2%98%85%20Player%20Characters/Celaine%20D'vain.md)   | Amelia    | She/Her            | Wizard    | Air Genasi |
 | [Snoozie](./%E2%98%BB%20Characters/%E2%98%85%20Player%20Characters/Snoozie.md)                 | Sebastian | She/Her            | Fighter   | Goblin     |
 
 
