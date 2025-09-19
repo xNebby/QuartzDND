@@ -6,7 +6,7 @@ tags:
 share: true
 ---
 ### About
-The tavern of [Gaius Crowsby](../../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Royalty%20&%20Nobles/Aeternus'%20Party/Gaius%20Crowsby.md)
+The tavern of [Gaius Crowsby](../../../../%E2%98%BB%20Characters/%E2%98%85%20NPCs/Adventurer%20Groups/Aeternus'%20Party/Gaius%20Crowsby.md)
 
 ---
 ### Known for
