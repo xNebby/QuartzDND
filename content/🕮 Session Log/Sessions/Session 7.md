@@ -5,6 +5,7 @@ Session: 7
 Date: 2025-08-18
 LevelUp: true
 tags:
+  - Session
 share: true
 ---
 # Enter the darkworld
@@ -19,10 +20,6 @@ share: true
 
 
 ---
-### Recap:
-
-
----
 ### Things the party should know:
 
 
@@ -32,10 +29,6 @@ share: true
 
 ---
 ### Session 7 Summary:
-
-
----
-### NPCs that might show up again:
 
 
 ---
