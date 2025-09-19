@@ -5,7 +5,7 @@ tags:
 share: true
 ---
 ### Important Figures
-- [Archdruid Kalafin](../Royalty%20&%20Nobles/Aeternus'%20Party/Kalafin.md)
+- [Archdruid Kalafin](../Adventurer%20Groups/Aeternus'%20Party/Kalafin.md)
 - [Renna Swiftplume](./Renna%20Swiftplume.md)
 
 ---
