@@ -15,6 +15,6 @@ The Benefit tiers go like so:
 - Adept - Eagle
 - Veteran - Boar
 - Master - Rhino 
-- Baron - 
+- Baron - Drake
 - Lord - Dragon
 It is important to note that the Lord title does not necessarily mean one is with the merchants guild, but it is a way that many people have become nobility. 

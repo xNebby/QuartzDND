@@ -6,6 +6,7 @@ Rarity:
 tags:
   - Magic
   - Resource
+  - Homebrew
 share: true
 ---
 Weight: - lbs

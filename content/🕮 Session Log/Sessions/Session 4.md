@@ -21,10 +21,6 @@ share: true
 
 
 ---
-### Recap:
-
-
----
 ### Things the party should know:
 
 
@@ -34,10 +30,6 @@ share: true
 
 ---
 ### Session 4 Summary:
-
-
----
-### NPCs that might show up again:
 
 
 ---

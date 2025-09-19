@@ -6,6 +6,8 @@ Date: 2025-06-29
 LevelUp: true
 tags:
   - Session
+  - Wastelands
+  - Cult
 share: true
 ---
 # Downfall of Scorgate
@@ -13,15 +15,12 @@ share: true
 ### Date: 29 Jun 2025
 ---
 ### New Characters:
-
+- The Bloodworn Cloak cult
+- Arianne?
 
 ---
 ### Current Quest Threads:
 
-
----
-### Recap:
-![Session 1 Summary](./Session%25201.md##Session%25201%2520Summary)
 
 ---
 ### Things the party should know:
@@ -33,10 +32,6 @@ share: true
 
 ---
 ### Session 2 Summary:
-
-
----
-### NPCs that might show up again:
 
 
 ---
